@@ -1,0 +1,274 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	},{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+	,{
+		"path": "pages/chat/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "客服聊天展示"
+		}
+	},{
+		"path": "pages/chat/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "客服聊天添加"
+		}
+	},{
+		"path": "pages/chat/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "客服聊天详情"
+		}
+	}
+	,{
+		"path": "pages/fapiaoshenqing/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发票申请展示"
+		}
+	},{
+		"path": "pages/fapiaoshenqing/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发票申请添加"
+		}
+	},{
+		"path": "pages/fapiaoshenqing/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发票申请详情"
+		}
+	}
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/jijianxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "寄件信息展示"
+		}
+	},{
+		"path": "pages/jijianxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "寄件信息添加"
+		}
+	},{
+		"path": "pages/jijianxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "寄件信息详情"
+		}
+	}
+	,{
+		"path": "pages/kuaijian/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "快件信息展示"
+		}
+	},{
+		"path": "pages/kuaijian/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "快件信息添加"
+		}
+	},{
+		"path": "pages/kuaijian/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "快件信息详情"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息展示"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息添加"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息详情"
+		}
+	}
+	,{
+		"path": "pages/tongchengjisong/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "同城急送展示"
+		}
+	},{
+		"path": "pages/tongchengjisong/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "同城急送添加"
+		}
+	},{
+		"path": "pages/tongchengjisong/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "同城急送详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "速达物流信息查询",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#d24a32",
+		"borderStyle": "black",
+		"backgroundColor": "#f06f4f",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/jijianxinxi/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "寄件信息"
+			}
+			,{
+				"pagePath": "pages/kuaijian/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "快件信息"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
